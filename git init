@@ -12,3 +12,7 @@ git add .
 git status
 git commit -m "new message"
 git push
+
+(baar baar name nhi puchega)
+git config --global user.email ""
+git config --global user.name ""
