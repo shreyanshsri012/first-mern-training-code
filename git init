@@ -1,0 +1,14 @@
+git init
+git confif user.name""
+git config user.email""
+git remote add origin "url"
+git add .
+git commit -m "first msg"
+git branch -M main
+//first time
+git push -u origin main 
+//second time
+git add .
+git status
+git commit -m "new message"
+git push
